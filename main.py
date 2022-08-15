@@ -3,7 +3,7 @@ import numpy as np
 import plotly.graph_objects as go
 from PIL import Image
 import matplotlib.pyplot as plt
-import sympy as sp
+import sympy as sp #pode apagar este comentaria
 
 st.header('Média e Desvio Padrão')
 
